@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc>http://sathiyapriya-seo.github.io/subject.html</loc>
-  <priority>1.0</priority>
-  <lastmod>2026-01-20</lastmod>
-</url>
-<url>
-  <loc>http://sathiyapriya-seo.github.io/about.html</loc>
-  <priority>1.0</priority>
-  <lastmod>undefined-undefined-2026-01-20</lastmod>
-</url>
-<url>
-  <loc>http://sathiyapriya-seo.github.io/index.html</loc>
-  <priority>1.0</priority>
-  <lastmod>undefined-undefined-undefined-undefined-2026-01-20</lastmod>
-</url>
-<url>
-  <loc>http://sathiyapriya-seo.github.io/contact.html</loc>
-  <priority>1.0</priority>
-  <lastmod>undefined-undefined-undefined-undefined-undefined-undefined-2026-01-20</lastmod>
-</url>
-<url>
-  <loc>http://sathiyapriya-seo.github.io/home-tuition-chennai.html</loc>
-  <priority>1.0</priority>
-  <lastmod>undefined-undefined-undefined-undefined-undefined-undefined-undefined-undefined-2026-01-20</lastmod>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://sathiyapriya-seo.github.io/</loc>
+    <lastmod>2026-01-22</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://sathiyapriya-seo.github.io/subjects.html</loc>
+    <lastmod>2026-01-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sathiyapriya-seo.github.io/about-us.html</loc>
+    <lastmod>2026-01-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://sathiyapriya-seo.github.io/contact.html</loc>
+    <lastmod>2026-01-22</lastmod>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
